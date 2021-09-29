@@ -1,0 +1,7 @@
+c:\users\mito1\documents\visual studio 2015\Projects\SisRoca_Bruja\CapaNegocio\bin\Debug\CapaNegocio.dll
+c:\users\mito1\documents\visual studio 2015\Projects\SisRoca_Bruja\CapaNegocio\bin\Debug\CapaNegocio.pdb
+c:\users\mito1\documents\visual studio 2015\Projects\SisRoca_Bruja\CapaNegocio\bin\Debug\CapaDatos.dll
+c:\users\mito1\documents\visual studio 2015\Projects\SisRoca_Bruja\CapaNegocio\bin\Debug\CapaDatos.pdb
+c:\users\mito1\documents\visual studio 2015\Projects\SisRoca_Bruja\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+c:\users\mito1\documents\visual studio 2015\Projects\SisRoca_Bruja\CapaNegocio\obj\Debug\CapaNegocio.dll
+c:\users\mito1\documents\visual studio 2015\Projects\SisRoca_Bruja\CapaNegocio\obj\Debug\CapaNegocio.pdb
